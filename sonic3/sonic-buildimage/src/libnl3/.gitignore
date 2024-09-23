@@ -1,6 +1,0 @@
-*
-!.gitignore
-!debian/
-debian/libnl-*/
-!Makefile
-!patch
