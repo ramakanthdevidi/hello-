@@ -1,5 +1,0 @@
-[Match]
-Name=eth0-midplane
-
-[Network]
-DHCP=yes
